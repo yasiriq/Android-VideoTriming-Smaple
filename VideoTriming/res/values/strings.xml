@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VideoTriming</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="device_not_supported_message">FFmpeg is not supported on your device</string>
+    <string name="device_not_supported">Device not supported</string>
+    <string name="shipped_ffmpeg_version">n2.4.2</string>
+
+</resources>
